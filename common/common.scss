@@ -400,3 +400,6 @@ noscript > #main-outlet {
 .d-toc {
   width: 20vw;
 }
+.topic-body {
+  width: calc(790px + (11px * 2));;
+}
