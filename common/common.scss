@@ -209,9 +209,6 @@ header.d-header {
   border-radius: 4px;
 }
 
-.topic-navigation {
-  width: 20vw;
-}
 // Horizontal topic timeline
 
 #topic-progress-wrapper {
@@ -397,4 +394,9 @@ span.user-title {
 .crawler > #main-outlet,
 noscript > #main-outlet {
   padding-top: 6em;
+}
+
+// Bakino
+.topic-navigation, .d-toc {
+  width: 20vw;
 }
