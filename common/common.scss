@@ -405,25 +405,63 @@ noscript > #main-outlet {
 }
 .cooked h1{
     font-size: 2em;
+    font-weight: bold;
 }
 .d-editor-preview h1{
     font-size: 2em;
+    font-weight: bold;
 }
 .cooked h2{
     font-size: 1.6em;
+    font-weight: bold;
+    padding-left: 1rem;
 }
 .d-editor-preview h2{
     font-size: 1.6em;
+    font-weight: bold;
+    padding-left: 1rem;
 }
 .cooked h3{
     font-size: 1.4em;
+    font-weight: bold;
+    padding-left: 1.5rem;
 }
 .d-editor-preview h3{
     font-size: 1.4em;
+    font-weight: bold;
+    padding-left: 1.5rem;
 }
 .cooked h4{
     font-size: 1.2em;
+    font-weight: bold;
+    padding-left: 2rem;
 }
 .d-editor-preview h4{
     font-size: 1.2em;
+    font-weight: bold;
+    padding-left: 2rem;
 }
+.cooked h5{
+    font-size: 1.1em;
+    font-weight: bold;
+    padding-left: 2.5rem;
+}
+.d-editor-preview h5{
+    font-size: 1.1em;
+    font-weight: bold;
+    padding-left: 2.5rem;
+}
+.cooked h6{
+    font-size: 1.0em;
+    font-weight: bold;
+    padding-left: 3rem;
+}
+.d-editor-preview h6{
+    font-size: 1.0em;
+    font-weight: bold;
+    padding-left: 3rem;
+}
+.d-toc {
+    overflow-x: auto !important;
+}
+    
